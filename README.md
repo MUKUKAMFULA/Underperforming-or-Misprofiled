@@ -17,7 +17,7 @@ injuries and a change of roles have seen his output decrease.
 His still without a doubt on of the most important players in
 Arsenal’s squad but is there more that should be expected of
 the Arsenal captain?
-# SURFACE LEVEL STATS
+# Surface Level Statistics
 
 The graph shows Martin Odegaard performance based on
 goals and assists in the 24/25 season compared to other
@@ -33,7 +33,7 @@ goals and assists. His absence due to injury has to be
 considered when looking at this statistic but g/a per 90 shows
 a similar concerning statistic.
 
-# POSSESSION STATS
+# Possession Statistics
 One of Odegaard’s biggest assets is being able to retain
 possession. He acts as the creator for Arsenal on the right
 hand side of their midfield usually trying to get passes into to
@@ -49,7 +49,7 @@ created. We can see that Martin Odegaard created chances at a
 higher rate than everyone else in the sample size except Bruno
 Fernandes.
 
-# CONCLUSION
+# Conclusion
 Martin Odegaard is definitely still one of the best attacking
 midfielders in Europe. The problem may lie in how he is used
 with Arsenal. Odegaard could be more effective as an Central
